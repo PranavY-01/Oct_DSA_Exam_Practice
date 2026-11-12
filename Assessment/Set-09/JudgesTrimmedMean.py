@@ -1,4 +1,4 @@
-# Category B | October DSA Exam | Practice Assessment | Set 09 | Problem 3: Judges Trimmed Mean
+# Category B | October DSA Exam | Practice Assessment | Set 09 | Problem 2: Judges Trimmed Mean
 # --------------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------------
 # Sort scores, discard t smallest and t largest values, then calculate
